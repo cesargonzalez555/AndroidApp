@@ -1,3 +1,3 @@
 # AndroidApp
 
-Aplicación desarrollado con Android Studio 4.0
+Aplicación desarrollada con Android Studio 4.0
